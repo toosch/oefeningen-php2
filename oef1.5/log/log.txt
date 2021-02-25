@@ -1,0 +1,13 @@
+2021-02-25 08:17:36 select * from eu_btw_codes
+2021-02-25 08:17:38 select * from images
+2021-02-25 08:17:40 select * from images where img_id=1
+2021-02-25 08:17:40 select lan_id, lan_land from land
+2021-02-25 08:17:44 SHOW FULL COLUMNS FROM images
+2021-02-25 08:17:44 UPDATE images SET  img_title = 'De Muurrr'  ,  img_filename = 'berlin.jpg'  ,  img_width = '667'  ,  img_height = '78'  ,  img_lan_id = '2'  ,  img_date = '2020-09-14'  WHERE img_id = 1 
+2021-02-25 08:17:44 select * from images
+2021-02-25 08:50:59 select * from images
+2021-02-25 08:51:00 select * from images where img_id=1
+2021-02-25 08:51:00 select lan_id, lan_land from land
+2021-02-25 08:51:03 select * from images
+2021-02-25 08:51:09 select * from images
+2021-02-25 08:51:16 select * from images
