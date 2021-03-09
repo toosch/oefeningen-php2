@@ -1,0 +1,69 @@
+2021-02-10 22:53:49: SELECT * FROM user WHERE usr_email='anton@verlinden.be' 
+2021-02-10 22:53:51: select * from images
+2021-02-10 22:53:55: select * from eu_btw_codes
+2021-02-10 22:53:59: select * from eu_btw_codes where eub_id=1
+2021-02-10 22:54:05: SHOW FULL COLUMNS FROM eu_btw_codes
+2021-02-10 22:54:07: UPDATE eu_btw_codes SET  eub_land = 'België'  ,  eub_code = 'BE1234567'  WHERE eub_id = 1 
+2021-02-10 22:54:09: select * from eu_btw_codes
+2021-02-10 22:54:14: select * from images
+2021-02-10 23:36:50: select * from eu_btw_codes
+2021-02-10 23:36:54: select * from images
+2021-02-10 23:37:02: select * from user where usr_id=3
+2021-02-10 23:37:07: select * from images
+2021-02-12 00:22:52: SELECT * FROM user WHERE usr_email='anton@verlinden.be' 
+2021-02-12 00:22:54: select * from images
+2021-02-12 00:24:18: select * from images
+2021-02-12 00:25:24: select * from images
+2021-02-12 00:25:28: select * from eu_btw_codes
+2021-02-12 00:25:33: select * from eu_btw_codes where eub_id=1
+2021-02-12 00:25:38: SHOW FULL COLUMNS FROM eu_btw_codes
+2021-02-12 00:27:32: select * from eu_btw_codes where eub_id=1
+2021-02-12 00:27:40: SHOW FULL COLUMNS FROM eu_btw_codes
+2021-02-12 00:27:42: UPDATE eu_btw_codes SET  eub_land = 'België'  ,  eub_code = 'BE12'  WHERE eub_id = 1 
+2021-02-12 00:27:42: select * from eu_btw_codes
+2021-02-12 00:27:49: select * from images
+2021-02-12 00:27:54: select * from images where img_id=2
+2021-02-12 00:27:56: select lan_id, lan_land from land
+2021-02-12 00:28:02: SHOW FULL COLUMNS FROM images
+2021-02-12 00:28:04: UPDATE images SET  img_title = 'De Eiffeltoren'  ,  img_filename = 'paris.jpg'  ,  img_width = '888'  ,  img_height = '777'  ,  img_lan_id = '6'  ,  img_date = '2020-09-14'  WHERE img_id = 2 
+2021-02-12 00:28:04: select * from images
+2021-02-12 00:28:15: select * from images
+2021-02-12 00:28:20: select * from images where img_id=1
+2021-02-12 00:28:22: select lan_id, lan_land from land
+2021-02-12 00:28:25: select * from images
+2021-02-12 00:28:30: select * from images
+2021-02-12 00:53:36: SELECT * FROM user WHERE usr_email='anton@verlinden.be' 
+2021-02-12 00:53:38: select * from images
+2021-03-08 19:22:49: SELECT * FROM user WHERE usr_email='test@test.te' 
+2021-03-08 19:22:49: select * from images
+2021-03-08 19:22:54: select * from images where img_id=1
+2021-03-08 19:22:54: select lan_id, lan_land from land
+2021-03-08 19:22:59: SHOW FULL COLUMNS FROM images
+2021-03-08 19:22:59: UPDATE images SET  img_title = 'De Muurrr'  ,  img_filename = 'berlin.jpg'  ,  img_width = '667'  ,  img_height = '78'  ,  img_lan_id = '5'  ,  img_date = '2020-09-14'  WHERE img_id = 1 
+2021-03-08 19:22:59: select * from images
+2021-03-08 19:23:03: select * from user where usr_id=24
+2021-03-08 19:23:09: SHOW FULL COLUMNS FROM user
+2021-03-08 19:23:09: UPDATE user SET  usr_voornaam = 'Piet'  ,  usr_naam = 'Pieters'  ,  usr_email = 'test@test.te'  ,  usr_telefoon = '1234564789'  WHERE usr_id = 24 
+2021-03-08 19:23:09: select * from user where usr_id=24
+2021-03-08 19:23:12: select * from user where usr_id=24
+2021-03-08 19:23:18: select * from user where usr_id=24
+2021-03-08 19:23:25: select * from user where usr_id=24
+2021-03-08 19:23:26: select * from eu_btw_codes
+2021-03-08 19:23:35: select * from eu_btw_codes
+2021-03-08 20:20:47: SELECT * FROM user WHERE usr_email='test@test.te' 
+2021-03-08 20:20:47: select * from images
+2021-03-08 21:03:17: select * from images
+2021-03-08 21:03:20: select * from images
+2021-03-08 21:03:23: select * from images
+2021-03-08 21:03:24: select * from eu_btw_codes
+2021-03-09 08:30:43: select * from eu_btw_codes
+2021-03-09 08:30:45: select * from images
+2021-03-09 09:36:45: SELECT * FROM blogposts
+2021-03-09 09:37:02: SELECT * FROM blogposts
+2021-03-09 09:38:54: SELECT * FROM blogposts
+2021-03-09 09:39:57: SELECT * FROM blogposts
+2021-03-09 09:39:58: SELECT * FROM blogposts
+2021-03-09 09:40:54: SELECT * FROM blogposts
+2021-03-09 09:44:02: SELECT * FROM blogposts
+2021-03-09 09:44:51: SELECT * FROM blogposts
+2021-03-09 09:48:29: SELECT * FROM blogposts
