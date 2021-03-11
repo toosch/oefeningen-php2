@@ -67,3 +67,5 @@
 2021-03-09 09:44:02: SELECT * FROM blogposts
 2021-03-09 09:44:51: SELECT * FROM blogposts
 2021-03-09 09:48:29: SELECT * FROM blogposts
+2021-03-11 09:56:34: SELECT * FROM user WHERE usr_email='test@test.te' 
+2021-03-11 09:56:34: select * from images
