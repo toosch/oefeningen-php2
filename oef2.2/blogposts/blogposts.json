@@ -1,0 +1,16 @@
+{
+  "1": {
+    "title": "Titel",
+    "author": "Author",
+    "video": "dQw4w9WgXcQ",
+    "text": "Lorem ipsum dolor...",
+    "publicationDate": "1615235756"
+  },
+  "2": {
+    "title": "Titel2",
+    "author": "Author2",
+    "image": "https://www.rtlnieuws.nl/sites/default/files/styles/liggend/public/content/images/2018/12/13/iStock-868443292.jpg?itok=2VmBUuDy",
+    "text": "Lorem ipsum dolor...2",
+    "publicationDate": "1615235846"
+  }
+}
